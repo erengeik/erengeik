@@ -6,7 +6,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/500718423265771520
                             )](https://discord.com/users/500718423265771520)
 
-  I like to code in my own way.
+- ☄️ I like to code in my own way.
 
 - 🌴 I’m currently working <a href="https://github.com/erengeik" rel="nofollow">on</a> this page. 
 
