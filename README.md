@@ -10,6 +10,6 @@
 
 - 🌴 I’m currently working <a href="https://github.com/erengeik" rel="nofollow">on</a> this page. 
 
-- 🧦 <a href="https://discord.gg/qWJgWyvFrS" rel="nofollow">Join</a> our discord server!
+- 🌨️ <a href="https://discord.gg/qWJgWyvFrS" rel="nofollow">Join</a> our discord server!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erengeik&show_icons=true&theme=github_dark)
