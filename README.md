@@ -16,6 +16,6 @@
 
   <h1>Contact</h1>
 
-  <a href="https://discord.com/users/500718423265771520" target="_blank"><img src="https://shields.io/badge/Cheesey-111111.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://discord.com/users/500718423265771520" target="_blank"><img src="https://shields.io/badge/Eren-111111.svg?&style=for-the-badge&logo=discord"></a>
 
 </div>
