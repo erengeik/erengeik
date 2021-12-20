@@ -13,3 +13,9 @@
 - 🌨️ <a href="https://discord.gg/qWJgWyvFrS" rel="nofollow">Join</a> our discord server!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erengeik&show_icons=true&theme=github_dark)
+
+  <h1>Contact</h1>
+
+  <a href="https://discord.com/users/500718423265771520" target="_blank"><img src="https://shields.io/badge/Cheesey-111111.svg?&style=for-the-badge&logo=discord"></a>
+
+</div>
